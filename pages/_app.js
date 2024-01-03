@@ -98,7 +98,7 @@ function MyApp({ Component, pageProps }) {
                 <p className={linkTextStyle}>Home</p>
               </Link>
               <Link href='/profiles'>
-                <p className={linkTextStyle}>Explore Profiles</p>
+                <p className={linkTextStyle}>Explore Profiles NOW</p>
               </Link>
               {
                 userProfile && (
