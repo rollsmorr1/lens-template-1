@@ -93,7 +93,7 @@ export default function Home() {
           onKeyDown={handleKeyDown}
         />
         <Button
-          buttonText="SEARCH POSTS"
+          buttonText="SEARCH POSTS - NOW"
           onClick={searchForPost}
         />
       </div>
